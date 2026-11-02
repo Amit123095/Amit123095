@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there 👋, I'm Amit Kumar!
+A passionate Senior Mobile Engineer specializing in Native Android & Flutter. 
 
-<!--
-**Amit123095/Amit123095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack & Tools:
+*   **Languages:** Kotlin, Java, Dart
+*   **Android:** Jetpack (Compose, Room, WorkManager), MVVM, Clean Architecture
+*   **Cross-Platform:** Flutter
+*   **Dependency Injection:** Dagger2, Koin
+*   **Hardware/Network:** Bluetooth, IoT Sync, Volley, Retrofit, REST/SOAP APIs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently focusing on: Enterprise mobile architecture and scalable CI/CD pipelines.
+📫 Reach me at: amit123095@gmail.com | [LinkedIn](https://www.linkedin.com/in/amit-kumar-08a12811a/)
